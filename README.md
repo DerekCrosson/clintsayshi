@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://clint.netlify.app](https://clint.netlify.app)
 
-- 💬 Ask me about **react, flask**
+- 💬 Ask me about **HTML, CSS, ReactJS, and Python**
 
 - 📫 How to reach me **clintonwamanakane@gmail.com**
 
